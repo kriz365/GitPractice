@@ -1,3 +1,3 @@
 # GitPractice
-#Hi 
-#this is created for git practice
+# Hi 
+# this is created for git practice
